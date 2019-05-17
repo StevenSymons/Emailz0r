@@ -39,5 +39,3 @@ if (process.env.NODE_ENV === "production") {
 const PORT = process.env.PORT || 5000;
 
 app.listen(PORT);
-
-// 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
